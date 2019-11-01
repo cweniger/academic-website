@@ -75,4 +75,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
 
 
-<a class="twitter-timeline" href="https://twitter.com/C_Weniger?ref_src=twsrc%5Etfw">Tweets by C_Weniger</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/C_Weniger?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @C_Weniger</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
