@@ -15,7 +15,7 @@ role: Assistant Professor of Theoretial Physics
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
-  url: "www.uva.nl"
+  url: "http://www.uva.nl"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
